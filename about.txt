@@ -1,0 +1,2 @@
+my final project is a hotel webpage that is interactive with the user where you can see the difference between rooms prices 
+ we have a forum where you can contact us diffrent types of events that you could see
